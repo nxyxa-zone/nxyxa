@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SPMB SMK Pancasila Seputih Mataram",
+  "description": "Official Student Admission System (SPMB) website for SMK Pancasila Seputih Mataram academic year 2026/2027.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
